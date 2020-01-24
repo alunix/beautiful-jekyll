@@ -8,13 +8,13 @@
 #baseurl: ""
 
 # If you are building a GitHub project page then use these settings:
-url: "http://daattali.github.io/beautiful-jekyll"
+url: "https://pomerla.github.io/beautiful-jekyll"
 baseurl: "/beautiful-jekyll"
 
 # Of course don't forget to change the username and projectname to YOUR username and project
 
 # Name of website
-title: Beautiful Jekyll
+title: Beautiful Docks
 
 # Short description of your site
 description: Quickly build a beautiful Jekyll website
@@ -40,8 +40,8 @@ navbar-links:
 # Change all these values or delete the ones you don't want.
 # Important: you must keep the "name" parameter, everything else you can remove
 author:
-  name: Dean Attali
-  email: "daattali@gmail.com"
+  name: RAMStudio
+  email: "aleksmorro@gmail.com"
   facebook: deanattali
   github: daattali
   twitter: daattali
